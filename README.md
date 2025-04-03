@@ -1,4 +1,4 @@
-# Next.js MySQL Example
+# Next.js with MySQL 
 
 This project is a CRUD (Create, Read, Update, Delete) example using Next.js with MySQL database, integrated with Knex.js for SQL query building and Objection.js as the ORM (Object-Relational Mapping) on top of Knex.js.
 
@@ -9,8 +9,8 @@ To run this project locally, follow these steps:
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/Muurtaja/nextjs-mysql-example.git
-   cd nextjs-mysql-example
+   git clone  https://github.com/parnikamathur/NextSync-.git
+  
    ```
 
 2. **Install dependencies**:
@@ -95,6 +95,4 @@ You can view the live project at [Live Project Link](#).
 
 Contributions are welcome! Please open an issue or submit a pull request to suggest improvements or fixes.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/license/mit) file for details.
